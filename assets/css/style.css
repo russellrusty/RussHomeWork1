@@ -3,7 +3,22 @@
     padding-left: 50px;
 }
 
-.bio{
-    color: aqua;
+.me {
+    float: left;
+    margin-left: 10px;
+    padding-left: 0px;
+    
 }
 
+.about{
+    float: right;
+    padding-right: 250px
+}
+.portfolio{
+    float: right ;
+}
+.contact{
+    float: right;
+}
+
+.bio{}
