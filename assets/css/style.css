@@ -1,6 +1,10 @@
 .heading1{
     float: left;
-    padding-left: 50px;
+    padding-left: 250px;
+    color: white;
+    background: #20B2AA;
+    
+   
 }
 
 .me {
@@ -12,7 +16,8 @@
 
 .about{
     float: right;
-    padding-right: 250px
+    padding-right: 250px;
+    
 }
 .portfolio{
     float: right ;
